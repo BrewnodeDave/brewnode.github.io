@@ -1,2 +1,2 @@
-# brewnode.guthub.io
+# brewnode.github.io
 Brewnode Brewery
